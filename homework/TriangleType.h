@@ -17,10 +17,8 @@ public:
 	* @return is mark triangle type
 	* @retval -1 is not a triangle
 	* @retval 0  Equilateral triangle
-	* @retval 1  Isosceles right-angled triangle
-	* @retval 2  An isosceles triangle
-	* @retval 3  Right angled triangle
-	* @retval 4  Ordinary triangle
+	* @retval 1  An isosceles triangle
+	* @retval 2  Ordinary triangle
 	*/
 	int GetTriangleType();
 
